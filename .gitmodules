@@ -34,3 +34,6 @@
 [submodule "bundle/YouCompleteMe"]
 	path = bundle/YouCompleteMe
 	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "bundle/material.vim"]
+	path = bundle/material.vim
+	url = https://github.com/kaicataldo/material.vim.git
