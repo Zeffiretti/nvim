@@ -39,7 +39,7 @@ set background=dark
 
 let g:airline_theme='material'
 let g:material_theme_style = 'darker'
-colorscheme material
+colorscheme vim-material
 hi Normal       ctermbg=NONE guibg=NONE
 hi SignColumn   ctermbg=235 guibg=#262626
 hi LineNr       ctermfg=grey guifg=grey ctermbg=NONE guibg=NONE
