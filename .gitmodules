@@ -37,3 +37,6 @@
 [submodule "bundle/material.vim"]
 	path = bundle/material.vim
 	url = https://github.com/kaicataldo/material.vim.git
+[submodule "bundle/vim-wakatime"]
+	path = bundle/vim-wakatime
+	url = git://github.com/wakatime/vim-wakatime.git
