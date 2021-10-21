@@ -37,8 +37,8 @@ endif
 set cursorline
 set background=dark
 
-let g:airline_theme='material'
-let g:material_theme_style = 'darker'
+let g:airline_theme='papercolor'
+let g:material_theme_style = 'lighter'
 colorscheme material
 hi Normal       ctermbg=NONE guibg=NONE
 hi SignColumn   ctermbg=235 guibg=#262626
